@@ -158,6 +158,7 @@ A full-stack blood bank platform designed to connect blood donors and recipients
 ✔️ Contribute to open-source projects
 ✔️ Continuously learn and improve
 <!-- ======================= CONTACT ======================= -->
+```
 
 ## 🤝 Connect With Me
 
