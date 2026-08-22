@@ -1,5 +1,7 @@
 <!-- ======================= HEADER ======================= -->
-
+<p align="center">
+  <img src="./banner.png" alt="MD. M. A. Hossain Pabon - Developer Banner" width="100%">
+</p>
 <h1 align="center">
   Hi 👋, I'm MD. M. A. Hossain Pabon
 </h1>
