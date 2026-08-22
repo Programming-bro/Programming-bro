@@ -157,3 +157,33 @@ A full-stack blood bank platform designed to connect blood donors and recipients
 ✔️ Build production-ready full-stack applications
 ✔️ Contribute to open-source projects
 ✔️ Continuously learn and improve
+<!-- ======================= CONTACT ======================= -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/md-hossain-pabon/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mdhossainpabon@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/pabon" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/pabon" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="50" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Feel free to connect with me! 🚀</i>
+</p>
