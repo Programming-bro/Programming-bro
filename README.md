@@ -27,7 +27,7 @@
 <td width="45%" align="center">
 
 <img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="https://github.com/Programming-bro/Programming-bro/blob/main/aminated"
   width="350"
   alt="Coding Animation"
 />
