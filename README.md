@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm MD. M. A. Hossain Pabon
 </h1>
-### 🎓 CSE Undergraduate @ RUET
+<h3 align="center"> 🎓 CSE Undergraduate @ RUET </h3>
 
 <p align="center">
   <img 
