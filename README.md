@@ -3,6 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm MD. M. A. Hossain Pabon
 </h1>
+### 🎓 CSE Undergraduate @ RUET
 
 <p align="center">
   <img 
@@ -13,19 +14,9 @@
 
 <table align="center">
 <tr>
-<td width="55%" align="center">
 
-### 🎓 CSE Undergraduate @ RUET
-
-💻 Competitive Programming  
-🚀 Full-Stack Development  
-🧠 Data Structures & Algorithms  
-🌱 Always Learning & Building
-
-</td>
 
 <td width="45%" align="center">
-
 <img 
   src="https://github.com/Programming-bro/Programming-bro/blob/main/aminated"
   width="350"
