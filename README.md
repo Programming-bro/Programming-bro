@@ -14,7 +14,19 @@
 
 <table align="center">
 <tr>
+<td>
+ ## 👨‍💻 About Me
 
+🎓 I'm a **Computer Science & Engineering undergraduate at Rajshahi University of Engineering & Technology (RUET)**.
+
+💻 I'm passionate about **Competitive Programming, Problem Solving, and Software Development**.
+
+🚀 I enjoy building full-stack web applications and learning how real-world software systems work.
+
+🧠 Currently strengthening my knowledge of **Data Structures & Algorithms** and improving my problem-solving skills.
+
+🌱 Always learning, building, and trying to become a better developer.
+</td>
 
 <td width="45%" align="center">
 <img 
@@ -36,17 +48,7 @@
 
 ---
 
-## 👨‍💻 About Me
 
-🎓 I'm a **Computer Science & Engineering undergraduate at Rajshahi University of Engineering & Technology (RUET)**.
-
-💻 I'm passionate about **Competitive Programming, Problem Solving, and Software Development**.
-
-🚀 I enjoy building full-stack web applications and learning how real-world software systems work.
-
-🧠 Currently strengthening my knowledge of **Data Structures & Algorithms** and improving my problem-solving skills.
-
-🌱 Always learning, building, and trying to become a better developer.
 
 ---
 
