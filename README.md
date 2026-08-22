@@ -1,22 +1,61 @@
-# 👋 Hi, I'm MD. M. A. Hossain Pabon
+<!-- ======================= HEADER ======================= -->
 
-### 🎓 CSE Undergraduate @ Rajshahi University of Engineering & Technology (RUET)
+<h1 align="center">
+  Hi 👋, I'm MD. M. A. Hossain Pabon
+</h1>
 
-💻 Competitive Programmer | 🚀 Full-Stack Developer | 🧠 Problem Solver
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Full-Stack+Developer;C%2B%2B+Enthusiast;Problem+Solver;CSE+Undergraduate+%40+RUET"
+    alt="Typing SVG"
+  />
+</p>
 
-I enjoy solving challenging problems, building web applications, and continuously
-improving my programming and software development skills.
+<table align="center">
+<tr>
+<td width="55%" align="center">
+
+### 🎓 CSE Undergraduate @ RUET
+
+💻 Competitive Programming  
+🚀 Full-Stack Development  
+🧠 Data Structures & Algorithms  
+🌱 Always Learning & Building
+
+</td>
+
+<td width="45%" align="center">
+
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="350"
+  alt="Coding Animation"
+/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=programming-bro&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my Bachelor's degree in **Computer Science & Engineering at RUET**
-- 💻 Interested in **Competitive Programming & Problem Solving**
-- 🚀 Building full-stack applications using **React.js and Django**
-- 🧠 Currently strengthening my knowledge of **Data Structures & Algorithms**
-- 🌱 Exploring new technologies and software engineering practices
-- 🤝 Open to collaborating on interesting projects and learning opportunities
+🎓 I'm a **Computer Science & Engineering undergraduate at Rajshahi University of Engineering & Technology (RUET)**.
+
+💻 I'm passionate about **Competitive Programming, Problem Solving, and Software Development**.
+
+🚀 I enjoy building full-stack web applications and learning how real-world software systems work.
+
+🧠 Currently strengthening my knowledge of **Data Structures & Algorithms** and improving my problem-solving skills.
+
+🌱 Always learning, building, and trying to become a better developer.
 
 ---
 
